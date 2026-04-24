@@ -11,6 +11,9 @@
     { href: "sentence-structure.html", label: "Sentence structure" },
     { href: "adverbs.html", label: "Adverbs" },
     { href: "adjectives.html", label: "Adjectives" },
+    { section: "Vocabulary" },
+    { href: "phrasal-verbs.html", label: "Phrasal verbs" },
+    { href: "idioms.html", label: "Idioms" },
   ];
 
   function currentFile() {
